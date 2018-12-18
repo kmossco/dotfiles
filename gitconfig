@@ -1,0 +1,19 @@
+[user]
+    email = bruno.vieira@leadfeeder.com
+    name = Bruno Vieira
+[color]
+    ui = auto
+[core]
+    excludesfile = /Users/bruno/.gitignore_global
+[push]
+    default = current
+[rebase]
+    autosquash = true
+[include]
+    path = ~/.gitconfig.local
+[fetch]
+    prune = true
+[merge]
+    ff = only
+[pager]
+    branch = false
