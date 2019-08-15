@@ -4,16 +4,6 @@
 [color]
     ui = auto
 [core]
-    excludesfile = /Users/bruno/.gitignore_global
-[push]
-    default = current
-[rebase]
-    autosquash = true
-[include]
-    path = ~/.gitconfig.local
-[fetch]
-    prune = true
-[merge]
-    ff = only
+    editor = 'vim'
 [pager]
     branch = false

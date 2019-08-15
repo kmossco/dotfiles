@@ -1,0 +1,25 @@
+{
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 1,
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "Hack",
+    "editor.tabSize": 2,
+    "workbench.colorTheme": "Nord",
+    "window.closeWhenEmpty": true,
+    "window.nativeTabs": true,
+    "window.restoreFullscreen": true,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.shell.osx": "zsh",
+    "files.insertFinalNewline": true,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": true,
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": false,
+    "explorer.openEditors.visible": 0,
+    "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+    "files.trimTrailingWhitespace": true
+}
+
