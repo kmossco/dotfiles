@@ -1,7 +1,7 @@
 {
     "editor.renderWhitespace": "all",
     "window.zoomLevel": 1,
-    "files.autoSave": "onFocusChange",
+    "files.autoSave": "afterDelay",
     "editor.fontFamily": "Hack",
     "editor.tabSize": 2,
     "workbench.colorTheme": "Nord",
