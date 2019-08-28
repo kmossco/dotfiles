@@ -7,3 +7,11 @@
     editor = 'vim'
 [pager]
     branch = false
+[fetch]
+    prune = true
+[merge]
+    ff = only
+[push]
+    default = upstream
+[rebase]
+    autosquash = true
